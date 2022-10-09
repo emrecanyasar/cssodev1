@@ -1,1 +1,0 @@
-Sayfamıza Biraz Makyaj Yapalım
