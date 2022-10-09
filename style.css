@@ -7,3 +7,16 @@
     text-align: center;
     
 }
+
+.movie{
+    display: inline-flex;
+    color: rgb(107, 165, 204);
+}
+
+.letterboxd{
+    margin-left: "10px";
+}
+
+a{
+    color: rgb(209, 107, 107);
+}
